@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+}
+.navbar-brand {
+  margin-left: 40px;
+}
+.navitems {
+  margin-left: 40rem;
+  padding: 5px 50px;
+}
+/* part one */
+
+.bankBtn {
+  margin-right: 28rem;
+}
+.navbar-GetDbank {
+  margin-left: 2.5rem;
+}
+.part-one {
+  margin: 7% 10%;
+}
+#part-one-h1 {
+  margin-top: 5rem;
+}
+.paragraph {
+  text-align: justify;
+}
+
+/* part two */
+.part-two {
+  margin: 7% 10%;
+  text-align: justify;
+}
+/* part three */
+.part-three {
+  margin: 7% 10%;
+  text-align: justify;
+}
